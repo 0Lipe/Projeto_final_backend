@@ -45,7 +45,6 @@ INSTALLED_APPS = [
     "corsheaders",
     'user_api',
     'tweet',
-
 ]
 
 MIDDLEWARE = [
